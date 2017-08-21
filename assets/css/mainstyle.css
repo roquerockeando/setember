@@ -1,0 +1,41 @@
+/*
+CSS go here!
+*/
+
+body{
+
+	margin: 0;
+	font-family: Radikal;
+	background: url('../images/bonfire.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	overflow-x: hidden;
+
+}
+
+.paragraph {
+	color: #333;
+	
+}
+
+.log {
+	padding: 1em;
+	border: 1px solid #333;
+	border-radius: 3px;
+}
+
+.reallyLog{
+
+	padding: 5em;
+}
+
+.messages{
+	text-align: left;
+}
+
+.formInput {
+	position: fixed;
+}
+
